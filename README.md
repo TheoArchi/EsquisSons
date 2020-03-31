@@ -6,7 +6,7 @@ Esquissons is a grasshopper plugin and a stndalone app which help you to design 
 
 Functions/component :
 Listener : Place/Move the listening point in the scene, choose its orientation and size
-Geometry : Determine the phonic opacity of a geometry but also its absorption coefficient
+\n Geometry : Determine the phonic opacity of a geometry but also its absorption coefficient
 Sources : Position the source in the model, determine its size and choose the sound file it will play
 Option for sources : Mute a source, manually adjust its volume and choose the degree of shuffle!
 Built-in Sound : New simpler interface in the form of a list to access the built-in sounds. (more built-in sounds)
