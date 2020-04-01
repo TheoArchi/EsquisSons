@@ -16,4 +16,4 @@
 >
 *Mac : Move OSC.py to*
 
-```/Users/theomarchal/Library/Application Support/McNeel/Rhinoceros/6.0/scripts
+>/Users/theomarchal/Library/Application Support/McNeel/Rhinoceros/6.0/scripts
