@@ -4,7 +4,7 @@ Esquissons is a grasshopper plugin and a standalone app which help you to design
 > Comes with an installer here : https://www.food4rhino.com/app/esquissons
 > Crossplatform (Mac/windows) 
 
-<Functions/component :>
+##Functions/component :##
 Listener : Place/Move the listening point in the scene, choose its orientation and size
 
 Geometry : Determine the phonic opacity of a geometry but also its absorption coefficient
@@ -19,8 +19,8 @@ Main Engine : Optimized component (faster), you can lock the sources, enable or
 
 Visualize Rays : You can choose how many rays are visible, at what distance from the source and the number of bounces you want to see !
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
-> INSTALLATION INSTRUCTIONS_
+**/////////////////////////////////////////////////////////////////////////////////////////////////////
+> INSTALLATION INSTRUCTIONS_**
 _
 
 EsquisSons is now provided with an installer : 
@@ -30,20 +30,20 @@ _
 If you have any trouble, you can ask for help here :
 https://github.com/TheoArchi/EsquisSons/issues
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
-> SOURCE CODE_ 
+**/////////////////////////////////////////////////////////////////////////////////////////////////////
+> SOURCE CODE_ **
 _
 Mac users already have access to the python code via user objects.
 
 For windows users you can download the source code here:
 https://github.com/TheoArchi/EsquisSons
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
-> LICENCE_ 
+**/////////////////////////////////////////////////////////////////////////////////////////////////////
+> LICENCE_ **
 _
 You can find attached a text file that summarizes the license. 
 For more details about the license, see :
 
 https://cecill.info/licences/Licence_CeCILL_V2.1-en.html 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
+**/////////////////////////////////////////////////////////////////////////////////////////////////////**
