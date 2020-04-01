@@ -1,10 +1,10 @@
 # EsquisSons
-Esquissons is a grasshopper plugin and a stndalone app which help you to design with sound ;)
+Esquissons is a grasshopper plugin and a standalone app which help you to design with sound ;)
 
 > Comes with an installer here : https://www.food4rhino.com/app/esquissons
 > Crossplatform (Mac/windows) 
 
-Functions/component :
+<Functions/component :>
 Listener : Place/Move the listening point in the scene, choose its orientation and size
 
 Geometry : Determine the phonic opacity of a geometry but also its absorption coefficient
