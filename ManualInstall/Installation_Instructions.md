@@ -1,8 +1,7 @@
 ## MANUAL INSTALLATION 
-###Instructions :
-*
+### Instructions :
 
-**1/ You first have to move the sketch application to the default directory : **
+**1/ You first have to move the sketch application to the default directory :**
 
 *Windows : Move the folder "EsquisSons" to* 
 >C:\Users\'yourname'\Documents\
