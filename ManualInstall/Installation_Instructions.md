@@ -1,4 +1,5 @@
 ## MANUAL INSTALLATION 
+**RHINOCEROS3D(V6) AND GRASSHOPPER ARE REQUIRED TO WORK WITH ESQUISSONS**
 
 ### 1/ You first have to move the sketch application to the default directory :
 
@@ -23,3 +24,5 @@
 
 *Mac : Move <ComponentName>.ghuser from ressources to*
 >/Users/<yourusername>/Library/Application Support/McNeel/Rhinoceros/6.0/Plug-ins/Grasshopper (b45a29b1-4343-4035-989e-044e8580d9cf)/UserObjects
+  
+### Now you can launch rhinoceros & grasshopper and start sketching !
