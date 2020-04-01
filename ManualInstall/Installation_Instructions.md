@@ -12,6 +12,7 @@
 
 *Windows : Move OSC.py from ressources to*
 >C:\Users\<yourusername>\AppData\Roaming\McNeel\Rhinoceros\6.0\scripts
+
 *Mac : Move OSC.py to*
 >/Users/<yourusername>/Library/Application Support/McNeel/Rhinoceros/6.0/scripts
 
@@ -19,5 +20,6 @@
 
 *Windows : Move <ComponentName>.ghpy from ressources to*
 >C:\Users\<use name>\AppData\Roaming\Grasshopper\Libraries
+
 *Mac : Move <ComponentName>.ghuser from ressources to*
 >/Users/<yourusername>/Library/Application Support/McNeel/Rhinoceros/6.0/Plug-ins/Grasshopper (b45a29b1-4343-4035-989e-044e8580d9cf)/UserObjects
