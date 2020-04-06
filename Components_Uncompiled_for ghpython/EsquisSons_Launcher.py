@@ -40,7 +40,8 @@ class MyComponent(component):
         if esqpath is None:
             
             if platform.system() == 'Windows':
-                esqpath = os.environ["USERPROFILE"]+'\Documents\EsquisSons\EsquisSons.exe'
+                #esqpath = os.environ["USERPROFILE"]+'\Documents\EsquisSons\EsquisSons.exe'
+                esqpath = os.getenv('APPDATA')+'\Grasshopper\Libraries\EsquisSons\EsquisSons.exe'
             
             if platform.system() == 'Darwin':
                 esqpath = '/applications/EsquisSons.app'
@@ -71,7 +72,7 @@ class MyComponent(component):
                     oscmsg[0] = "EsquisSons\\ is\\ Online!\\ Let's\\ make\\ some\\ noise"
                     self.AddRuntimeMessage(rem, 'EsquisSons! is Online ! Lets make some noise !')
                     self.Message = "EsquisSons is ON"
-                if On_Off == False :
+                else :
                     oscmsg[0] = 'EsquisSons\\ is\\ not\\ Online\\ turn\\ it\\ on\\ (in\\ Gh)\\ to\\ start\\ the\\ sketch'
                     self.AddRuntimeMessage(war, 'EsquisSons app should be open ! Now turn it ON with a boolean Toogle (On_Off input)!')
                     self.Message = "Almost there : Turn it on !"
