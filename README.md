@@ -27,6 +27,7 @@ _
 
 EsquisSons is now provided with an installer : 
 Run the grasshopper script "ESQUISSONS_INSTALLER" and follow the steps
+Manual Install is still possible : https://github.com/TheoArchi/EsquisSons/blob/master/ManualInstall/Installation_Instructions.md
 _
 
 If you have any trouble, you can ask for help here :
