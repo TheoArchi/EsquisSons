@@ -4,6 +4,8 @@ Esquissons is a grasshopper plugin and a standalone app which help you to design
 > Comes with an installer here : https://www.food4rhino.com/app/esquissons
 > Crossplatform (Mac/windows) 
 
+> A discussion group is accessible on the page: https://www.grasshopper3d.com/group/esquissons.
+
 ## Functions/component :
 Listener : Place/Move the listening point in the scene, choose its orientation and size
 
