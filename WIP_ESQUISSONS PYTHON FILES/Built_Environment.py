@@ -1,7 +1,8 @@
 """EsquisSons Built Environment allows to transform geometries into envirronment for the sonic sketch.
 You can connect multiple brep to one component. Avoid flat surfaces.
 -
-AAU / Theo Marchal / BETA VERSION / AVRIL2020"""
+AAU / Theo Marchal / BETA VERSION / AVRIL2020
+With the Contribution of Manon COUTIER & Domitille GRANDJEAN"""
 
 from ghpythonlib.componentbase import executingcomponent as component
 import Grasshopper, GhPython
