@@ -1,7 +1,8 @@
 """EsquisSons Launcher
 Use 2 boolean toggles to launch the app and then start the sound module :)
 -
-AAU / Theo Marchal / BETA VERSION / AVRIL2020"""
+AAU / Theo Marchal / BETA VERSION / AVRIL2020
+With the Contribution of Manon COUTIER & Domitille GRANDJEAN"""
 
 from ghpythonlib.componentbase import executingcomponent as component
 import Grasshopper, GhPython
