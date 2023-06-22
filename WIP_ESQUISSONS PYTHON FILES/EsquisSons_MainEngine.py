@@ -1,7 +1,8 @@
 """EsquisSons Main Engine will calculate the auralisation.
 Use Listener, Sources and Geometry objects to connect them here :)
 -
-AAU / Theo Marchal / BETA VERSION / MARS2020"""
+AAU / Theo Marchal / BETA VERSION / MARS2020
+With the Contribution of Manon COUTIER & Domitille GRANDJEAN"""
 
 from ghpythonlib.componentbase import executingcomponent as component
 import Grasshopper, GhPython
