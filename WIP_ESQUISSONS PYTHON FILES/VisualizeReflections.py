@@ -2,7 +2,8 @@
 Use Visualize Output of "EsquisSons Main engine" :)
 <WORKS ONLY WITH UNTRIMMED BREP OR SURFACES / You may encounter some bugs in semi-closed volumes>
 -
-AAU / Theo Marchal / BETA VERSION / MARS2020"""
+AAU / Theo Marchal / BETA VERSION / MARS2020
+With the Contribution of Manon COUTIER & Domitille GRANDJEAN"""
 
 from ghpythonlib.componentbase import executingcomponent as component
 import Grasshopper, GhPython
