@@ -1,6 +1,7 @@
 """EsquisSons Source Options allows you to more precisely define a source (shuffle, volume, mute etc.)
 -
-AAU / Theo Marchal / BETA VERSION / AVRIL2020"""
+AAU / Theo Marchal / BETA VERSION / AVRIL2020
+With the Contribution of Manon COUTIER & Domitille GRANDJEAN"""
 
 from ghpythonlib.componentbase import executingcomponent as component
 import Grasshopper, GhPython
