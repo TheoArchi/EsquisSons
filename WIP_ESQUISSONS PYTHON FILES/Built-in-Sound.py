@@ -1,7 +1,8 @@
 """EsquisSons Built-in Sounds provides some basic sounds to start your sketch
 Use a value list to visualize sound names
 -
-AAU / Theo Marchal / BETA VERSION / AVRIL2020"""
+AAU / Theo Marchal / BETA VERSION / AVRIL2020
+With the Contribution of Manon COUTIER & Domitille GRANDJEAN"""
 
 from ghpythonlib.componentbase import executingcomponent as component
 import Grasshopper, GhPython
