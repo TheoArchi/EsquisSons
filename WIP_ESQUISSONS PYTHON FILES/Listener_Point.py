@@ -1,7 +1,8 @@
 """EsquisSons Listener is used to declare the listening point.
 Define its position, orientation and size :)
 -
-AAU / Theo Marchal / BETA VERSION / AVRIL2020"""
+AAU / Theo Marchal / BETA VERSION / AVRIL2020
+With the Contribution of Manon COUTIER & Domitille GRANDJEAN"""
 
 from ghpythonlib.componentbase import executingcomponent as component
 import Grasshopper, GhPython
